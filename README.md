@@ -2,7 +2,7 @@
 
 TV One app is a streaming platform that allows you to watch a wide range of content, including TV shows, movies, and documentaries. It offers live-streaming of TV One's original programming, as well as on-demand access to a library of past episodes and movies. The TV One app is available on various devices, such as smartphones, tablets, smart TVs, and streaming devices, making it convenient to enjoy your favorite content anytime, anywhere.
 
-![[tvone.tv/activate](getstarted.png)](https://techtotrend.com/tvone-tv-activate/)
+[[!tvone.tv/activate](getstarted.png)](https://techtotrend.com/tvone-tv-activate/)
 
 ## Tvone.tv/activate Full Setup Guide 
 
